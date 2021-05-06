@@ -1,2 +1,9 @@
 # linkshortner
-With the help of pyshortner module. https://pyshorteners.readthedocs.io/en/latest/
+___________________________________________________
+
+With the help of pyshortner module.
+___________________________________________________
+creating a linkshortner.
+___________________________________________________
+
+https://pyshorteners.readthedocs.io/en/latest/
